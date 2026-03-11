@@ -73,13 +73,10 @@ Books are dynamically rendered into **interactive cards**, allowing users to sea
 
 # 📸 Screenshots
 
-(Add screenshots here)
+<img width="1900" height="1091" alt="image" src="https://github.com/user-attachments/assets/2288a743-7995-4b60-b6a5-ac1f8cf42ade" />
 
-Example:
+<img width="1908" height="1082" alt="image" src="https://github.com/user-attachments/assets/16a12e96-436d-48d5-903e-f7552949bdbb" />
 
-Home Page  
-Search & Filter System  
-Book Details Modal
 
 ---
 
@@ -104,4 +101,4 @@ GitHub
 https://github.com/AlbashX
 
 LinkedIn  
-(Add your LinkedIn profile link)
+www.linkedin.com/in/AlbashX
